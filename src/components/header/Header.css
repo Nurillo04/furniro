@@ -1,0 +1,20 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 45px;
+  margin-left: 150px;
+}
+.nav1 {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+}
+.item {
+  margin-left: 40px;
+  color: #000;
+  /* font-family: Poppins; */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
